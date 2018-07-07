@@ -1,0 +1,5 @@
+#/etc/auto.ext-usb
+
+usb1	-fstype=auto,async,nodev,noexec,nosuid,umask=000	:/dev/sdb1
+usb2	-fstype=auto,async,nodev,noexec,nosuid,umask=000	:/dev/sdc1
+
