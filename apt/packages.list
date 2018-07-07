@@ -1,0 +1,17 @@
+xfonts-base 
+xserver-xorg-input-all 
+xinit
+xserver-xorg 
+xserver-xorg-video-all
+slim
+i3
+i3status
+suckless
+zsh
+vim
+wireshark
+kpcli
+git
+sudo
+firefox
+autofs
